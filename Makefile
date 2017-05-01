@@ -7,7 +7,7 @@ CFLAGS= -Wall -Wextra -Werror -std=c99 -pedantic -O3 -lm
 LDFLAGS=
 LDLIBS= `pkg-config  --libs gtk+-3.0`
 
-SRC= GUI.c
+SRC= src/GUI.c
 OBJ= ${SRC:.c=.o}
 
 all: GUI
