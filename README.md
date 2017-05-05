@@ -8,7 +8,7 @@ feijoe_y (FEIJOEIRO Yoan)                  feijoe_y@epita.fr
 
 INTRODUCTION
 ------------
-Paint like done for the second year of EPITA.
+Paint like.
 
 
 DESCRIPTION
